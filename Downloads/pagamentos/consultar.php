@@ -19,6 +19,9 @@ use Gerencianet\Gerencianet;
 //     "sandbox": false,
 //     "timeout": 30
 // }';
+
+
+
 //echo $options;
 // Lê o arquivo json com suas credenciais
 
